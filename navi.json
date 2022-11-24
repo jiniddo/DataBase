@@ -1,0 +1,36 @@
+[
+    {
+        "navTitle" : "PORTFOLIO",
+        "navLink" : "#",
+        "navTarget" : "",
+        "navClass" : "scrollPage",
+        "isNav" : true
+                
+    },
+    {
+        "navTitle" : "SKILL",
+        "navLink" : "#skill",
+        "navTarget" : "",
+        "navClass" : "scrollPage",
+        "isNav" : true
+        
+    },
+    {
+        "navTitle" : "preInterview",
+        "navLink" : "#preInterview",
+        "navTarget" : "",
+        "navClass" : "scrollPage",
+        "isNav" : true
+        
+    },
+    {
+        "navTitle" : "CONTACT",
+        "navLink" : "#contact",
+        "navTarget" : "",
+        "navClass" : "scrollPage",
+        "isNav" : true
+        
+    }
+    
+]
+
